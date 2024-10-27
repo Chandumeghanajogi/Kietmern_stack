@@ -1,0 +1,33 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    height:100px;
+    padding:10px;
+    width:25%;
+    margin: 10px;
+    background-color: #151414;
+}
+
+.model {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+   
+}
+
+h1 {
+    font-weight: 300px;
+    font-size: 50px;
+    margin: 0;
+}
+
+p {
+    font-weight: 400;
+    font-size: 20px;
+}
+a{
+    color:#151414;
+}
+
+
+
+
